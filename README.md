@@ -1,1 +1,1 @@
-basic calculator app
+very complex and hard ai integration
